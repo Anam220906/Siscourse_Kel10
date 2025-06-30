@@ -156,10 +156,10 @@
 
             <div class="swiper-slide">
                 <div class="card" style="width: 20rem;">
-                    <img src="/images/.png" class="card-img-top" alt="Langkah 1">
+                    <img src="/images/" class="card-img-top" alt="Langkah 1">
                     <div class="card-body">
                         <h6 class="card-title">Materi 1</h6>
-                        <p class="card-text">Belajar HTML</p>
+                        <p class="card-text">Belajar </p>
                         <a href="/matakuliah/software-html" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -167,10 +167,10 @@
 
              <div class="swiper-slide">
                 <div class="card" style="width: 20rem;">
-                    <img src="/images/pemweb-css.png" class="card-img-top" alt="Langkah 2">
+                    <img src="/images/" class="card-img-top" alt="Langkah 2">
                     <div class="card-body">
                         <h6 class="card-title">Materi 2</h6>
-                        <p class="card-text">Belajar CSS</p>
+                        <p class="card-text">Belajar </p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -178,10 +178,10 @@
 
             <div class="swiper-slide">
                 <div class="card" style="width: 20rem;">
-                    <img src="/images/pemweb-js.png" class="card-img-top" alt="Langkah 3">
+                    <img src="/images/" class="card-img-top" alt="Langkah 3">
                     <div class="card-body">
                         <h6 class="card-title">Materi 3</h6>
-                        <p class="card-text">Belajar Java Script</p>
+                        <p class="card-text">Belajar </p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -189,10 +189,10 @@
 
              <div class="swiper-slide">
                 <div class="card" style="width: 20rem;">
-                    <img src="/images/pemweb-bootstrap.jpeg" class="card-img-top" alt="Langkah 4">
+                    <img src="/images/" class="card-img-top" alt="Langkah 4">
                     <div class="card-body">
                         <h6 class="card-title">Materi 4</h6>
-                        <p class="card-text">Belajar Framework Bootstrap</p>
+                        <p class="card-text">Belajar </p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
