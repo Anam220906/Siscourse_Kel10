@@ -156,7 +156,7 @@
 
             <div class="swiper-slide">
                 <div class="card" style="width: 20rem;">
-                    <img src="/images/pemweb-html.png" class="card-img-top" alt="Langkah 1">
+                    <img src="/images/.png" class="card-img-top" alt="Langkah 1">
                     <div class="card-body">
                         <h6 class="card-title">Materi 1</h6>
                         <p class="card-text">Belajar HTML</p>
@@ -210,10 +210,10 @@
 
             <div class="swiper-slide">
                 <div class="card" style="width: 20rem;">
-                    <img src="/images/pemweb-node.png" class="card-img-top" alt="Langkah 1">
+                    <img src="/images/Lan.jpeg" class="card-img-top" alt="Langkah 1">
                     <div class="card-body">
                         <h6 class="card-title">Materi 1</h6>
-                        <p class="card-text">Belajar (Node.js)</p>
+                        <p class="card-text">Belajar Lan dan wlan</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -221,7 +221,7 @@
 
              <div class="swiper-slide">
                 <div class="card" style="width: 20rem;">
-                    <img src="/images/pemweb-python.jpeg" class="card-img-top" alt="Langkah 2">
+                    <img src="/images/subnetting.png" class="card-img-top" alt="Langkah 2">
                     <div class="card-body">
                         <h6 class="card-title">Materi 2</h6>
                         <p class="card-text">Belajar Subnetting</p>
@@ -243,7 +243,7 @@
 
              <div class="swiper-slide">
                 <div class="card" style="width: 20rem;">
-                    <img src="/images/pemweb-java.jpeg" class="card-img-top" alt="Langkah 4">
+                    <img src="/images/IP-Address.jpeg" class="card-img-top" alt="Langkah 4">
                     <div class="card-body">
                         <h6 class="card-title">Materi 4</h6>
                         <p class="card-text">Belajar Ip address</p>
@@ -254,10 +254,10 @@
 
             <div class="swiper-slide">
                 <div class="card" style="width: 20rem;">
-                    <img src="/images/pemweb-c.jpeg" class="card-img-top" alt="Langkah 4">
+                    <img src="/images/wireless.jpg" class="card-img-top" alt="Langkah 4">
                     <div class="card-body">
                         <h6 class="card-title">Materi 5</h6>
-                        <p class="card-text">Belajar Jaringan komputer#</p>
+                        <p class="card-text">Belajar wireless</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
