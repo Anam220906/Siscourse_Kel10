@@ -159,7 +159,7 @@
                     <img src="/images/" class="card-img-top" alt="Langkah 1">
                     <div class="card-body">
                         <h6 class="card-title">Materi 1</h6>
-                        <p class="card-text">Belajar </p>
+                        <p class="card-text">definisi Algoritma </p>
                         <a href="/matakuliah/software-html" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                     <img src="/images/" class="card-img-top" alt="Langkah 2">
                     <div class="card-body">
                         <h6 class="card-title">Materi 2</h6>
-                        <p class="card-text">Belajar </p>
+                        <p class="card-text">Natural Language Processing (NLP)</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
                     <img src="/images/" class="card-img-top" alt="Langkah 3">
                     <div class="card-body">
                         <h6 class="card-title">Materi 3</h6>
-                        <p class="card-text">Belajar </p>
+                        <p class="card-text">Robotics</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -192,7 +192,7 @@
                     <img src="/images/" class="card-img-top" alt="Langkah 4">
                     <div class="card-body">
                         <h6 class="card-title">Materi 4</h6>
-                        <p class="card-text">Belajar </p>
+                        <p class="card-text">Expert System</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -213,7 +213,7 @@
                     <img src="/images/" class="card-img-top" alt="Langkah 1">
                     <div class="card-body">
                         <h6 class="card-title">Materi 1</h6>
-                        <p class="card-text">Belajar </p>
+                        <p class="card-text">Speech Recognition</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -224,7 +224,7 @@
                     <img src="/images/" class="card-img-top" alt="Langkah 2">
                     <div class="card-body">
                         <h6 class="card-title">Materi 2</h6>
-                        <p class="card-text">Belajar </p>
+                        <p class="card-text">Machine Learning (ML) Dasar</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -235,7 +235,7 @@
                     <img src="/images/.jpeg" class="card-img-top" alt="Langkah 3">
                     <div class="card-body">
                         <h6 class="card-title">Materi 3</h6>
-                        <p class="card-text">Belajar </p>
+                        <p class="card-text"> Algoritma Machine Learning Umum</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -246,7 +246,7 @@
                     <img src="/images/.jpeg" class="card-img-top" alt="Langkah 4">
                     <div class="card-body">
                         <h6 class="card-title">Materi 4</h6>
-                        <p class="card-text">Belajar </p>
+                        <p class="card-text">Neural Networks (Jaringan Syaraf Tiruan)</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
@@ -257,7 +257,7 @@
                     <img src="/images/wireless.jpg" class="card-img-top" alt="Langkah 4">
                     <div class="card-body">
                         <h6 class="card-title">Materi 5</h6>
-                        <p class="card-text">Belajar </p>
+                        <p class="card-text">Deep Learning Dasar</p>
                         <a href="#" class="btn btn-sm btn-primary mt-2">Pelajari</a>
                     </div>
                 </div>
